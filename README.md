@@ -2,7 +2,7 @@
 
 ## Description 
 
-Created a nice-looking candy showcase to practice my Bootstrap skills. The showcase is responsive at different screen-sizes.
+Created a nice-looking candy showcase to practice my HTML, CSS, Javascript, and Bootstrap skills. The showcase is responsive at different screen-sizes.
 
 ## Illustrations
 
